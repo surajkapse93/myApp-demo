@@ -1,3 +1,3 @@
 # myApp-demo
 This is my first Git Repository.
-Author - Suraj Kapse
+Author - Suraj Prabhakar Kapse
